@@ -1,0 +1,19 @@
+body {
+  background-color: #0f172a;
+  background-image: linear-gradient(
+      rgba(255, 255, 255, 0.03) 1px,
+      transparent 1px
+    ),
+    linear-gradient(to right, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+  background-size: 44px 33px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  color: #38bdf8;
+  margin: 0;
+}
